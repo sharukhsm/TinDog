@@ -126,3 +126,16 @@ h2 {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Media Queries */
+@media (max-width: 1028px) {
+  /* Title/First page */
+  #title {
+    text-align: center;
+  }
+  /* Title Image */
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
