@@ -116,7 +116,7 @@ h2 {
   padding: 7% 15%;
 }
 
-/* Pricing */
+/*-----------  Pricing -----------*/
 #pricing {
   padding: 10% 10%;
   text-align: center;
@@ -127,7 +127,33 @@ h2 {
   padding: 3% 2%;
 }
 
-/* Media Queries */
+/*-----------  Call to Action  -----------*/
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.cta-h3 {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+/*-----------  Footer ----------- */
+#footer {
+  padding: 7%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.footer-icons {
+  margin: 20px 10px;
+}
+
+/*-----------  Media Queries ----------- */
 @media (max-width: 1028px) {
   /* Title/First page */
   #title {
