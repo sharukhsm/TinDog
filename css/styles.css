@@ -113,3 +113,14 @@ h2 {
 .carousel-item {
   padding: 7% 15%;
 }
+
+/* Pricing */
+#pricing {
+  padding: 10% 10%;
+  text-align: center;
+}
+
+/* Adding spacing between the pricing box */
+.pricing-column {
+  padding: 3% 2%;
+}
